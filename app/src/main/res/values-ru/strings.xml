@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_channel">Статус VPN</string>
+    <string name="notif_connected">Подключено: %1$s</string>
+    <string name="notif_connecting">Подключение…</string>
+    <string name="notif_disconnect">Отключить</string>
+
+    <string name="tab_connect">Подключение</string>
+    <string name="tab_servers">Сервера</string>
+    <string name="tab_settings">Настройки</string>
+
+    <string name="check">Проверить</string>
+    <string name="checking">Проверка…</string>
+    <string name="check_result">Задержка: %1$d мс</string>
+    <string name="check_fail">Нет ответа</string>
+    <string name="current_provider">ТЕКУЩИЙ ПРОВАЙДЕР</string>
+    <string name="no_provider_title">Серверов пока нет</string>
+    <string name="no_provider_text">Добавьте ссылку подписки, ссылку на сервер или JSON-конфиг на вкладке «Сервера».</string>
+    <string name="add_servers">Добавить сервера</string>
+    <string name="status_disconnected">Нажмите для подключения</string>
+    <string name="status_connecting">Подключение…</string>
+    <string name="status_connected">Подключено</string>
+    <string name="status_error">Ошибка</string>
+    <string name="no_server_selected">Сначала выберите сервер</string>
+    <string name="vpn_permission_denied">Разрешение VPN не выдано</string>
+
+    <string name="days_left">Осталось %1$d дн.</string>
+    <string name="unlimited">∞</string>
+    <string name="updated_hours">%1$dч</string>
+    <string name="updated_min">%1$dм</string>
+    <string name="updated_now">сейчас</string>
+    <string name="traffic_used">%1$s / %2$s</string>
+    <string name="traffic_used_unlimited">%1$s использовано</string>
+    <string name="btn_channel">Канал / Бот</string>
+    <string name="btn_support">Поддержка</string>
+    <string name="btn_site">Сайт</string>
+    <string name="menu_copy_url">Копировать ссылку</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="menu_ping_all">Проверить все</string>
+    <string name="refresh">Обновить</string>
+    <string name="refresh_failed">Не удалось обновить: %1$s</string>
+    <string name="refreshed">Обновлено: серверов — %1$d</string>
+
+    <string name="servers_title">Сервера</string>
+    <string name="add_title">Добавить сервера</string>
+    <string name="add_hint">Ссылка подписки, ссылки vless:// vmess:// trojan:// ss:// или Xray JSON</string>
+    <string name="add_paste">Вставить</string>
+    <string name="add_confirm">Добавить</string>
+    <string name="cancel">Отмена</string>
+    <string name="add_ok">Добавлено серверов: %1$d</string>
+    <string name="add_fail">Не удалось ничего прочитать из введённого</string>
+    <string name="add_loading">Загрузка…</string>
+    <string name="local_provider">Мои сервера</string>
+    <string name="empty_servers">Здесь пока пусто</string>
+    <string name="n_servers">Серверов: %1$d</string>
+    <string name="delete_server">Удалить сервер</string>
+
+    <string name="settings_title">Настройки</string>
+    <string name="settings_language">Язык</string>
+    <string name="lang_system">Системный</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_en">English</string>
+    <string name="settings_split">Раздельное туннелирование</string>
+    <string name="split_off">Все приложения идут через VPN</string>
+    <string name="split_bypass">Выбранные приложения идут мимо VPN</string>
+    <string name="split_only">Через VPN идут только выбранные приложения</string>
+    <string name="split_pick_apps">Выбрать приложения (%1$d)</string>
+    <string name="split_search">Поиск приложений</string>
+    <string name="split_note">Изменения применятся при следующем подключении.</string>
+    <string name="settings_test_url">Адрес для проверки задержки</string>
+    <string name="settings_about">О приложении</string>
+    <string name="about_text">nexus.net %1$s\nЯдро Xray %2$s</string>
+    <string name="back">Назад</string>
+</resources>
